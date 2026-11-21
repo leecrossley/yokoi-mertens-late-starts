@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24412666.svg)](https://doi.org/10.5281/zenodo.24412666)
 
+This result is now maintained in [quadratic-mertens-first-crossings](https://github.com/leecrossley/quadratic-mertens-first-crossings/tree/main/results/yokoi-mertens-late-starts). This repository is archived and keeps its releases and DOI.
+
 Let $S$ be the infimum of $x\ge2$ at which the prime-ideal Mertens product in a Yokoi field lies below its expected value. Since 2 is inert, the product is still 1 near 2, so $S=2$ in fields where it already starts below. Let $Y$ be the earliest possible start for a negative average of its logarithmic error, allowing any bounded nonnegative decreasing weight and any observation length.
 
 Among fields with a very late first dip, almost all satisfy
